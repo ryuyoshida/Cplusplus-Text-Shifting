@@ -1,20 +1,4 @@
-/********************************************
-File name: TT07_A2_NABIL_FARHAN_B_MAHMAD_ZULHASNAN.cpp
-Course: TCP1101 Programming Fundamentals
-Year: 2017/18 Trimester 1
-Student: NABIL FARHAN BIN MAHMAD ZUL-HASNAN
-ID: 1141128645
-Email: nnabilfarhan@gmail.com
-Phone: 017-6730017
-********************************************/
-/********************************************
-Optional declaration:
---------------------
-If you work closely with one or more course mates,
-and your code have some similarity, please declare here:
-1. I don't work with any of my course mates
-********************************************/
-
+/*Nabil Farhan*/
 #include <iostream>
 #include <fstream>
 #include <string>
